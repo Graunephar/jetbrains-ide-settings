@@ -2,9 +2,19 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine " />
+        <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="tag:" />
+        <option value="tag" />
+        <option value="package:com.welcomebob.app.welcomebobmaster " />
+        <option value="TrafficStats" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+      </list>
+    </option>
   </component>
 </application>
