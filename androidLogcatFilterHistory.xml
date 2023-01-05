@@ -5,9 +5,10 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="-tag:TrafficStats package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="-tag:TrafficStats package:mine " />
         <option value="tag:" />
         <option value="tag" />
         <option value="package:com.welcomebob.app.welcomebobmaster " />
