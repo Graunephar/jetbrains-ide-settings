@@ -5,9 +5,11 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="-tag:TrafficStats package:mine level:error " />
+    <option name="mostRecentlyUsed" value="-tag:TrafficStats package:mine MainActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="-tag:TrafficStats package:mine MainActivity" />
+        <option value="-tag:TrafficStats package:mine" />
         <option value="-tag:TrafficStats package:mine level:error " />
         <option value="-tag:TrafficStats package:mine " />
         <option value="package:mine " />
