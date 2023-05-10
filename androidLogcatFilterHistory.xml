@@ -5,9 +5,11 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="-tag:TrafficStats package:mine" />
+    <option name="mostRecentlyUsed" value="-tag:TrafficStats package:mine usergroup test tag" />
     <option name="nonFavorites">
       <list>
+        <option value="-tag:TrafficStats package:mine usergroup test tag" />
+        <option value="-tag:TrafficStats package:mine UserGroup" />
         <option value="-tag:TrafficStats package:mine" />
         <option value="package:mine " />
         <option value="LOL" />
