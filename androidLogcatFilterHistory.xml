@@ -5,13 +5,15 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="-tag:TrafficStats package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine ScreebFeedbackManager" />
+        <option value="-tag:TrafficStats package:mine CommandInvoker" />
         <option value="-tag:TrafficStats package:mine" />
         <option value="-tag:TrafficStats package:mine usergroup test tag" />
         <option value="-tag:TrafficStats package:mine UserGroup" />
-        <option value="package:mine " />
         <option value="LOL" />
         <option value="lol" />
         <option value="-tag:TrafficStats package:mine MainActivity" />
