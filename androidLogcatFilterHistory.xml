@@ -5,11 +5,14 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="-tag:TrafficStats package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="-tag:TrafficStats package:mine" />
         <option value="package:mine " />
+        <option value="package:mine TIS" />
+        <option value="package:mine" />
+        <option value="package:mine  TIS" />
+        <option value="-tag:TrafficStats package:mine" />
         <option value="package:mine ScreebFeedbackManager" />
         <option value="-tag:TrafficStats package:mine CommandInvoker" />
         <option value="-tag:TrafficStats package:mine usergroup test tag" />
@@ -24,7 +27,6 @@
         <option value="tag" />
         <option value="package:com.welcomebob.app.welcomebobmaster " />
         <option value="TrafficStats" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>

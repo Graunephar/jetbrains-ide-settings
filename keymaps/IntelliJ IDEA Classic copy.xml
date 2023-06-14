@@ -2,6 +2,14 @@
   <action id="ActivateAndroidEmulatorToolWindow">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta f4" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -12,6 +20,12 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt 4" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta add" />
@@ -26,10 +40,18 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
+  <action id="context.save" />
 </keymap>
