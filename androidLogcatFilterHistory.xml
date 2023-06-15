@@ -5,10 +5,13 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine CustomNPSFeedbackManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CustomNPSFeedbackManager" />
+        <option value="package:mine Volley" />
         <option value="package:mine " />
+        <option value="package:mine MainActivity" />
         <option value="package:mine TIS" />
         <option value="package:mine" />
         <option value="package:mine  TIS" />
@@ -25,8 +28,6 @@
         <option value="package:mine sendNotificationToUnlock" />
         <option value="tag:" />
         <option value="tag" />
-        <option value="package:com.welcomebob.app.welcomebobmaster " />
-        <option value="TrafficStats" />
       </list>
     </option>
   </component>
