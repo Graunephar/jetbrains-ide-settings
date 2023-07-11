@@ -11,6 +11,22 @@
 }]]></state>
           </value>
         </entry>
+        <entry key="https://gitlab.com/WelcomeBobcph/welcomebob-functions-monorepo">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/WelcomeBobcph/welcomebob-functions-monorepo",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
+        <entry key="https://gitlab.com/WelcomeBobcph/welcomebob-mobile-api">
+          <value>
+            <state><![CDATA[{
+  "remoteUrl": "https://gitlab.com/WelcomeBobcph/welcomebob-mobile-api",
+  "gitlabUrl": "https://gitlab.com/api/v4"
+}]]></state>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
