@@ -5,9 +5,10 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="telepho" />
     <option name="nonFavorites">
       <list>
+        <option value="telepho" />
         <option value="package:mine " />
         <option value="package:mine FirebaseConnection" />
         <option value="package:mine CustomNPSFeedbackManager" />
@@ -27,7 +28,6 @@
         <option value="-tag:TrafficStats package:mine level:error " />
         <option value="-tag:TrafficStats package:mine " />
         <option value="package:mine sendNotificationToUnlock" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
