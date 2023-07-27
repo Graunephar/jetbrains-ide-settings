@@ -5,12 +5,13 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine UserAdministrati" />
+        <option value="package:mine UserSettingsActivity" />
         <option value="package:mine" />
         <option value="telepho" />
-        <option value="package:mine " />
         <option value="package:mine FirebaseConnection" />
         <option value="package:mine CustomNPSFeedbackManager" />
         <option value="package:mine Volley" />
@@ -26,8 +27,6 @@
         <option value="lol" />
         <option value="-tag:TrafficStats package:mine MainActivity" />
         <option value="-tag:TrafficStats package:mine level:error " />
-        <option value="-tag:TrafficStats package:mine " />
-        <option value="package:mine sendNotificationToUnlock" />
       </list>
     </option>
   </component>
