@@ -5,11 +5,14 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine NFCLockOpenerActivity" />
+    <option name="mostRecentlyUsed" value="package:mine iLOQ Error was" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine NFCLockOpenerActivity" />
+        <option value="package:mine iLOQ Error was" />
         <option value="package:mine " />
+        <option value="package:mine iLOQSDKSingleTon" />
+        <option value="package:mine iloqSDKsine" />
+        <option value="package:mine NFCLockOpenerActivity" />
         <option value="package:mine UserAdministrati" />
         <option value="package:mine UserSettingsActivity" />
         <option value="package:mine" />
@@ -25,9 +28,6 @@
         <option value="-tag:TrafficStats package:mine CommandInvoker" />
         <option value="-tag:TrafficStats package:mine usergroup test tag" />
         <option value="-tag:TrafficStats package:mine UserGroup" />
-        <option value="LOL" />
-        <option value="lol" />
-        <option value="-tag:TrafficStats package:mine MainActivity" />
       </list>
     </option>
   </component>
