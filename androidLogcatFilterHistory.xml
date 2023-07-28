@@ -5,8 +5,10 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine NFCLockOpenerActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine NFCLockOpenerActivity" />
         <option value="package:mine " />
         <option value="package:mine UserAdministrati" />
         <option value="package:mine UserSettingsActivity" />
@@ -26,7 +28,6 @@
         <option value="LOL" />
         <option value="lol" />
         <option value="-tag:TrafficStats package:mine MainActivity" />
-        <option value="-tag:TrafficStats package:mine level:error " />
       </list>
     </option>
   </component>
