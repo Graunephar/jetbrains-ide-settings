@@ -8,9 +8,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine iLOQSDKSingleTon" />
         <option value="package:mine iloq" />
         <option value="package:mine iLOQ Error was" />
-        <option value="package:mine iLOQSDKSingleTon" />
         <option value="package:mine iloqSDKsine" />
         <option value="package:mine NFCLockOpenerActivity" />
         <option value="package:mine UserAdministrati" />
