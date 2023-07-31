@@ -5,8 +5,10 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine iloq" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine iloq" />
         <option value="package:mine " />
         <option value="package:mine iLOQ Error was" />
         <option value="package:mine iLOQSDKSingleTon" />
@@ -26,7 +28,6 @@
         <option value="package:mine ScreebFeedbackManager" />
         <option value="-tag:TrafficStats package:mine CommandInvoker" />
         <option value="-tag:TrafficStats package:mine usergroup test tag" />
-        <option value="-tag:TrafficStats package:mine UserGroup" />
       </list>
     </option>
   </component>
