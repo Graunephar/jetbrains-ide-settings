@@ -5,29 +5,29 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="telepho" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="telepho" />
         <option value="package:mine " />
+        <option value="package:mine ILOQAnimationHandler" />
+        <option value="package:mine iLOQ" />
+        <option value="package:mine  NFCLockOpenerActivity" />
+        <option value="package:mine iLOQSDKSingleTon" />
+        <option value="package:mine iloq" />
+        <option value="package:mine iLOQ Error was" />
+        <option value="package:mine iloqSDKsine" />
+        <option value="package:mine NFCLockOpenerActivity" />
+        <option value="package:mine UserAdministrati" />
+        <option value="package:mine UserSettingsActivity" />
+        <option value="package:mine" />
+        <option value="telepho" />
         <option value="package:mine FirebaseConnection" />
         <option value="package:mine CustomNPSFeedbackManager" />
         <option value="package:mine Volley" />
         <option value="package:mine MainActivity" />
         <option value="package:mine TIS" />
-        <option value="package:mine" />
         <option value="package:mine  TIS" />
         <option value="-tag:TrafficStats package:mine" />
-        <option value="package:mine ScreebFeedbackManager" />
-        <option value="-tag:TrafficStats package:mine CommandInvoker" />
-        <option value="-tag:TrafficStats package:mine usergroup test tag" />
-        <option value="-tag:TrafficStats package:mine UserGroup" />
-        <option value="LOL" />
-        <option value="lol" />
-        <option value="-tag:TrafficStats package:mine MainActivity" />
-        <option value="-tag:TrafficStats package:mine level:error " />
-        <option value="-tag:TrafficStats package:mine " />
-        <option value="package:mine sendNotificationToUnlock" />
       </list>
     </option>
   </component>
