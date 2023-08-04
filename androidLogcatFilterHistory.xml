@@ -5,11 +5,10 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine FirebaseConnectionSingleton" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine FirebaseConnectionSingleton" />
         <option value="package:mine " />
+        <option value="package:mine FirebaseConnectionSingleton" />
         <option value="package:mine MainLayout" />
         <option value="package:mine MainActivity" />
         <option value="package:mine MainAc" />
