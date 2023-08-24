@@ -5,8 +5,11 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine 26843545 268435456" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 26843545 268435456" />
+        <option value="package:mine 268435456bytes" />
         <option value="package:mine " />
         <option value="package:mine FirebaseConnectionSingleton" />
         <option value="package:mine MainLayout" />
@@ -25,8 +28,6 @@
         <option value="package:mine" />
         <option value="telepho" />
         <option value="package:mine FirebaseConnection" />
-        <option value="package:mine CustomNPSFeedbackManager" />
-        <option value="package:mine Volley" />
       </list>
     </option>
   </component>
