@@ -5,9 +5,10 @@
         <option value="welcomebobmaster" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine 26843545 268435456" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine 26843545 268435456" />
         <option value="package:mine 268435456bytes" />
         <option value="package:mine " />
@@ -25,7 +26,6 @@
         <option value="package:mine iloqSDKsine" />
         <option value="package:mine UserAdministrati" />
         <option value="package:mine UserSettingsActivity" />
-        <option value="package:mine" />
         <option value="telepho" />
         <option value="package:mine FirebaseConnection" />
       </list>
