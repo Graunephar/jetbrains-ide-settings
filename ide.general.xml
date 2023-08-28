@@ -7,11 +7,4 @@
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
     <entry key="gradle.version.catalogs.dynamic.support" value="true" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="LintStatus" value="false" />
-      </map>
-    </option>
-  </component>
 </application>
