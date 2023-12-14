@@ -8,4 +8,11 @@
     <entry key="gradle.version.catalogs.dynamic.support" value="true" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="LintStatus" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
