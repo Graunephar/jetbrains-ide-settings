@@ -56,6 +56,9 @@
   <action id="StringManipulation.QuoteAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt 6" />
   </action>
+  <action id="StringManipulation.ShiftQuote">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt 7" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
