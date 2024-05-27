@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Recently Viewed Files" />
-    <option name="defaultScopeName" value="Recently Viewed Files" />
+    <option name="customScope" value="soruce folders" />
+    <option name="defaultScopeName" value="soruce folders" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Recently Viewed Files" />
+    <option name="SEARCH_SCOPE" value="soruce folders" />
   </component>
 </application>
