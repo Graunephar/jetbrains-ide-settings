@@ -1,10 +1,21 @@
 <application>
   <component name="SettingsSyncSettings">
-    <option name="disabledCategories">
-      <list>
-        <option value="PLUGINS" />
-      </list>
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="bundled" />
+              <option value="com.github.blarc.gitlab-template-lint-plugin" />
+              <option value="com.intellij.swagger" />
+              <option value="dev.blachut.svelte.lang" />
+              <option value="org.jetbrains.settingsRepository" />
+            </list>
+          </value>
+        </entry>
+      </map>
     </option>
     <option name="migrationFromOldStorageChecked" value="true" />
+    <option name="syncEnabled" value="true" />
   </component>
 </application>
